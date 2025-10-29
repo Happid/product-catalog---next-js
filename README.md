@@ -1,8 +1,9 @@
 # Product Catalog – Next.js Mini Project
 Mini project untuk menampilkan daftar produk dengan fitur pencarian dan filter kategori.
 
-### INSTALASI
-npm install
+### INSTALASI dan RUNNING PROGRAM
+- npm install
+- npm run start
 
 ### Features
 - Halaman `/products` menampilkan grid produk.
